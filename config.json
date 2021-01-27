@@ -1,0 +1,11 @@
+{
+    "mysql" : {
+        "database" : "admin",
+        "host" : "localhost",
+        "user" : "root",
+        "password" : "passw0rd"
+    }, 
+    "mongo" : {
+        "uri" : "mongodb://127.0.0.1:27017/admin"
+    }
+}
